@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+  <!-- const date = new Date().toISOString(); -->
+  <url>
+    <loc>https://carllx.github.io/zai/</loc>
+    <lastmod>2019-05-21T22:55:53.552Z</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://carllx.github.io/zai/artisti/PangMaokun/</loc>
+    <lastmod>2019-05-21T22:55:53.552Z</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://carllx.github.io/zai/artisti/EnzoCucchi/</loc>
+    <lastmod>2019-05-21T22:55:53.552Z</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://carllx.github.io/zai/artisti/SandroChia/</loc>
+    <lastmod>2019-05-21T22:55:53.552Z</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://carllx.github.io/zai/artisti/FangLijun/</loc>
+    <lastmod>2019-05-21T22:55:53.552Z</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://carllx.github.io/zai/artisti/WangYi/</loc>
+    <lastmod>2019-05-21T22:55:53.552Z</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://carllx.github.io/zai/artisti/VincenzoVentimiglia/</loc>
+    <lastmod>2019-05-21T22:55:53.552Z</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://carllx.github.io/zai/news/2018_artists_plan/</loc>
+    <lastmod>2019-05-21T22:55:53.552Z</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+</urlset>

@@ -35,3 +35,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+```javascipt
+{"pushsito": "npm run export && cd out/ && node -e \"console.log('now path on :',process.cwd())\" && git add . && git commit -m  \" %npm_package_config_commitmessage% \" && git push origin master"}
+```
